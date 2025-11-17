@@ -33,11 +33,11 @@ Ini hanya dilakukan sekali saat awal:
 #### 2. Cara Membuat Branch (tiap anggota wajib)
 Contoh untuk Talitha:
 git checkout -b talitha
-#### 3. Edit File di Branch Masing-Masing**
+#### 3. Edit File di Branch Masing-Masing
 Setiap anggota hanya mengedit:
 - notebook bagian masing-masing (dalam folder /src)
 - tidak menyentuh folder orang lain
-#### 4. Menyimpan Perubahan (add, commit, push)**
+#### 4. Menyimpan Perubahan (add, commit, push)
 Setelah mengedit notebook:
 - git add .
 - git commit -m "Update notebook Talitha - model regresi"
