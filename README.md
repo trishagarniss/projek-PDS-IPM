@@ -49,10 +49,9 @@ Setelah mengedit notebook:
 - Klik Create Pull Request
 - Nanti akan review & merge.
 #### 6.Update Folder Lokal (git pull)
-Sebelum mengerjakan apapun, wajib lakukan:
-- git pull
-atau kalau di branch:
-- Sebelum mengerjakan apapun, wajib lakukan:
+- Sebelum mengerjakan apapun, wajib lakukan: git pull
+- atau kalau di branch: git pull origin main
+
 
 ## 📝 CATATAN
 - Tidak boleh semua orang kerja di branch main → untuk menghindari tabrakan file
