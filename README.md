@@ -12,7 +12,7 @@ Kelompok ini menganalisis faktor-faktor yang mempengaruhi Indeks Pembangunan Man
 
 ## 🧪 Variabel Penelitian (2021-2023)
 ### 🎯 Y (Variabel Dependen):
-IPM (Indeks Pembangunan Manusia)
+Indeks Kedalaman Kemiskinan (P1)
 ### 🔢 X (Variabel Independen):
 1. UHH (Umur Harapan Hidup)
 2. HLS (Harapan Lama Sekolah)
@@ -20,8 +20,6 @@ IPM (Indeks Pembangunan Manusia)
 4. Pengeluaran Per Kapita
 5. Tingkat Pengangguran Terbuka (TPT)
 6. Kepadatan Penduduk
-7. Indeks Kedalaman Kemiskinan (P1)
-8. Indeks Keparahan Kemiskinan (P2)
 
 ## 🔧 Panduan GIT untuk Semua Anggota (Sangat Penting)
 Gunakan Git Bash.
