@@ -1,9 +1,4 @@
-##### **-----------------------------------------------**
-
-##### **-- DAFTAR SUMBER DATA PROYEK IPM JAWA TENGAH --**
-
-##### **-----------------------------------------------**
-
+# DAFTAR SUMBER DATA PROYEK IPM JAWA TENGAH 
 
 
 **1. Kepadatan Penduduk (Jiwa per km2)**
