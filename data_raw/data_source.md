@@ -18,15 +18,15 @@
 
 
 
-**2. Indeks Kedalaman Kemiskinan (P1) dan Indeks Keparahan Kemiskinan (P2)**
+**2. Indeks Kedalaman Kemiskinan (P1)**
 
    Sumber: Badan Pusat Statistik Provinsi Jawa Tengah
 
    Tanggal rilis: 9 September 2025
 
-   Judul tabel: Indeks Kedalaman Kemiskinan dan Indeks Keparahan Kemiskinan Menurut Kabupaten/Kota di Provinsi Jawa Tengah, 2021
+   Judul tabel: Indeks Kedalaman Kemiskinan (P1) Menurut Kabupaten/Kota di Provinsi Jawa Tengah, 2021
 
-   Link: https://jateng.bps.go.id/id/statistics-table/2/MjYwMCMy/indeks-kedalaman-kemiskinan-dan-indeks-keparahan-kemiskinan-menurut-kabupaten-kota-di-provinsi-jawa-tengah.html
+   Link: https://jateng.bps.go.id/id/statistics-table/2/NzcjMg==/indeks-kedalaman-kemiskinan--p1--menurut-kabupaten-kota-di-provinsi-jawa-tengah.html
 
    Diakses pada: 17 November 2025
 
