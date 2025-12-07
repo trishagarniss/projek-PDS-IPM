@@ -1,11 +1,11 @@
 {
-  "model_file": "c:\\Users\\ASUS\\Documents\\KULIAH\\VS Code\\projek-PDS-IPM\\models\\ols_model_final.pkl",
-  "features_file": "c:\\Users\\ASUS\\Documents\\KULIAH\\VS Code\\projek-PDS-IPM\\models\\selected_features.json",
+  "model_file": "d:\\Project_PDS\\projek-PDS-IPM\\models\\ols_model_final.pkl",
+  "features_file": "d:\\Project_PDS\\projek-PDS-IPM\\models\\selected_features.json",
   "target": "P1",
   "test_year": 2024,
   "metrics": {
-    "MAE": 0.42047418847007323,
-    "RMSE": 0.5121085509479691,
-    "MAPE_%": 33.72182511799008
+    "MAE": 0.4223936854499217,
+    "RMSE": 0.5122841275654858,
+    "MAPE_%": 33.478875283264856
   }
 }
